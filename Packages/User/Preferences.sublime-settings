@@ -1,6 +1,6 @@
 {
 	"caret_style": "blink",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
 	"draw_white_space": "all",
 	"file_exclude_patterns":
 	[
