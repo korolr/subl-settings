@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"EasyMotion",
+		"Emmet",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScript & Coffeescript Build Systems",
+		"JsFormat",
+		"JSX",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminal"
+	]
+}
