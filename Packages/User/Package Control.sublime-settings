@@ -9,6 +9,7 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"Babel",
+		"Bootstrap 3 Autocomplete",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -18,12 +19,14 @@
 		"HTML5",
 		"HTMLBeautify",
 		"JavaScript & Coffeescript Build Systems",
+		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSX",
 		"Material Theme",
 		"Nodejs",
 		"Package Control",
 		"SideBarEnhancements",
-		"Terminal"
+		"Terminal",
+		"Vuejs Complete Package"
 	]
 }
