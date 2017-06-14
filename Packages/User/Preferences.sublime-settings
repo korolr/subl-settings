@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/JavaScriptNext - ES6 Syntax/Monokai Phoenix.tmTheme",
+	"color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
