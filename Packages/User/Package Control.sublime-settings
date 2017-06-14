@@ -23,7 +23,10 @@
 		"EasyMotion",
 		"Emmet",
 		"ES6-Toolkit",
+		"ESLint",
 		"FakeImg Image Placeholder Snippet",
+		"Git blame",
+		"GitGutter",
 		"HTML5",
 		"HTMLBeautify",
 		"JavaScript & Coffeescript Build Systems",
@@ -35,6 +38,7 @@
 		"SideBarEnhancements",
 		"Terminal",
 		"Varicolor",
+		"VimL",
 		"Vuejs Complete Package"
 	]
 }
