@@ -33,6 +33,7 @@
 		".hg",
 		"CVS"
 	],
+	"font_face": "SpaceMono",
 	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":

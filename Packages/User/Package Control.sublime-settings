@@ -5,10 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
-		"Babel",
+		"AVA",
 		"BracketHighlighter",
 		"EasyMotion",
 		"ESLint",
